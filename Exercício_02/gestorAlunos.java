@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class GestorAlunos {
+public class gestorAlunos {
     public static void main(String[] args) {
         Aluno[] listaAlunos = new Aluno[3];
         
