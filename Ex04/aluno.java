@@ -1,4 +1,4 @@
-package Exercício_04;
+package Ex04;
 
 class Aluno {
     private double nota;

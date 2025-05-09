@@ -1,3 +1,4 @@
+package Ex01;
 public class Main {
     public static void main(String[] args) {
         PontoCartesiano p1 = new PontoCartesiano(2, 3);

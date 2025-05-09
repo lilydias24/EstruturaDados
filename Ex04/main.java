@@ -1,4 +1,4 @@
-package Exercício_04;
+package Ex04;
 
 public class main {
     public static void main(String[] args) {

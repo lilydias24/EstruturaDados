@@ -1,4 +1,4 @@
-package Exercicio_05;
+package Ex05;
 
 public class Aluno {
     private String nome;

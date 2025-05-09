@@ -1,3 +1,4 @@
+package Ex01;
 public class PontoCartesiano {
     private double x, y;
 
