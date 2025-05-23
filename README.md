@@ -40,8 +40,14 @@ Repositório criado para o desenvolvimento dos exercícios propostos durante a d
 - Utilize o TAD Vetor armazenando números inteiros;
 - Gere um vetor com 1.000, 10.000 e 100.000 elementos e submeta o vetor ao método de ordenação, computando o tempo das execuções.
 
-Exercício 9 : 
+✔ Exercício 9 : 
 - Desenvolva o TAD PilhaLista (usando uma lista encadeada), que implementa todos os métodos da interface IPilha para uma pilha de alunos. 
 - Implemente também um método de impressão para mostrar o estado da pilha.
 
+✔ Exercício 10 : 
+- Implemente um TAD FilaVetor utilizando os exemplos da aula.  
+- Implemente um método para fazer a impressão da fila.
 
+✔ Exercício 11 :
+- Implemente um TAD FilaLista, com os métodos size() e isEmpty(), e armazene alunos na fila. 
+- Implemente um método de impressão para mostrar o estado da fila.

@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Aluno {
     private double nota;
     private String nome;
