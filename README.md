@@ -51,3 +51,7 @@ Repositório criado para o desenvolvimento dos exercícios propostos durante a d
 ✔ Exercício 11 :
 - Implemente um TAD FilaLista, com os métodos size() e isEmpty(), e armazene alunos na fila. 
 - Implemente um método de impressão para mostrar o estado da fila.
+
+✔ Exercício 12 :
+- Use endereçamento aberto para minimizar o problema das colisões ao armazenar Alunos em uma estrutura TAD Mapa.
+- Procurar um outro índice livre do vetor para armazenar o elemento quando houver colisão.
