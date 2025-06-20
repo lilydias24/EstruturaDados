@@ -55,3 +55,16 @@ Repositório criado para o desenvolvimento dos exercícios propostos durante a d
 ✔ Exercício 12 :
 - Use endereçamento aberto para minimizar o problema das colisões ao armazenar Alunos em uma estrutura TAD Mapa.
 - Procurar um outro índice livre do vetor para armazenar o elemento quando houver colisão.
+
+✔ Exercício 13 :
+- Implementar o TAD ABB;
+- Implementar o método de busca;
+- Implementar o método de impressão (percorrer a árvore);
+
+✔ Exercício 14 : 
+- Implementar o TAD ABB;
+- Implementar os métodos de busca apresentados;
+- Implementar os métodos de impressão;
+- Implementar o método de remoção de nós, pensando nos três casos;
+
+-> Extras : Trabalho I, Trabalho II e Trabalho III ✔
