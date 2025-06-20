@@ -25,7 +25,7 @@ Implementar ordenação dos veículos disponíveis (crescente/decrescente) ✅
 
 -> Pontos principais do trabalho a serem conferidos : 
 
-1. Uso correto das estruturas de dados implementadas do zero (sem ArrayList, LinkedList, etc.) [OK]
+1. Uso correto das estruturas de dados implementadas do zero (sem ArrayList, LinkedList, etc.)
 
 2. Cobertura de todos os requisitos funcionais: clientes, veículos, categorias, locações, ordenações, filtros. 
 
